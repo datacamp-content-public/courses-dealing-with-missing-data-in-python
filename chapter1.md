@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Types of Missing Data
+
+```yaml
+type: VideoExercise
+key: 4bc603b6af
+xp: 50
+```
+
+`@projector_key`
+501a8965030bb4b3a74a852e334ac252
